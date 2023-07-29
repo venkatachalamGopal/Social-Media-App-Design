@@ -6,7 +6,7 @@ const Comments = () => {
     const comments=[
         {
             id: 1,
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nequeaspernatur ullam aperiam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nequeaspernatur ullam aperiam",
+            desc: "Finding a cool Instagram post comment can take up a lot of time and be especially annoying when you want to be the first one to comment on your best friend’s pic.",
             name: "John Doe",
             userId: 1,
             profilePicture:
@@ -14,7 +14,7 @@ const Comments = () => {
           },
           {
             id: 2,
-            desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem nequeaspernatur ullam aperiam",
+            desc: "It all depends on the vibes of your friend’s post – you might need motivational, cute, or funny comments, and we have them all right here.",
             name: "Jane Doe",
             userId: 2,
             profilePicture:
